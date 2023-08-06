@@ -5,6 +5,7 @@ html, body {
 
 body{
     overflow-y: hidden;
+    position: static;
 }
 
 .our-team img {
