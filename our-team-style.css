@@ -1,4 +1,3 @@
-
 html, body {
     max-width: 100%;
     overflow-x: hidden;
@@ -8,8 +7,8 @@ body{
     overflow-y: hidden;
 }
 
-img {
-    width: 800px;
+.our-team img {
+    width: 700px;
     height: auto;
     border-radius: 20px;
 }
@@ -19,7 +18,7 @@ img {
     justify-content: right;
     display: inline-block;
     position: relative;
-    left: 10%;
+    left: 7%;
     transform: translateX(10%);
 }
 
@@ -31,7 +30,7 @@ img {
     line-height: normal;
     align-items: start;
     position: relative;
-    top: 7rem;
+    top: 6rem;
     left: 6rem;
 }
 
@@ -65,7 +64,7 @@ img {
     display: inline-block;
     position: relative;
     left: 6.1rem;
-    bottom: 8rem;
+    bottom: 3rem;
 }
 
 .authors{
