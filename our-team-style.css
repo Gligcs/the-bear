@@ -16,7 +16,6 @@ body{
 .our-team {
     align-items: right;
     justify-content: right;
-    display: inline-block;
     position: relative;
     left: 7%;
     transform: translateX(10%);
