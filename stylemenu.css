@@ -18,6 +18,11 @@ img {
     padding-top: 0;
 }
 
+.subtitles{
+    font-weight: 800;
+    margin-top: 50px;
+}
+
 .title{
     width: 1132px;
     color: #000;
@@ -127,7 +132,7 @@ img {
     padding-left: 2rem;
     overflow-wrap: break-word;
     position: relative;
-    bottom: 5rem;
+    bottom: 10rem;
 }
 
 @media screen and (max-width:767px){
@@ -246,7 +251,7 @@ img {
         padding-left: 1rem;
         overflow-wrap: break-word;
         position: relative;
-        bottom: 3rem;
+        bottom: 5rem;
     }
 }
 
@@ -365,6 +370,6 @@ img {
         padding-left: 1rem;
         overflow-wrap: break-word;
         position: relative;
-        bottom: 3rem;
+        bottom: 10rem;
     }
 }
