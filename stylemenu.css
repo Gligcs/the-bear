@@ -109,8 +109,8 @@ img {
     transform: translateX(-50%);
 }
 
-.cover-image{
-    width: 70%;
+.cover-image img{
+    width: 50%;
     height: auto;
     border-radius:20px;
     margin: auto;
