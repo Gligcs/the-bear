@@ -6,7 +6,7 @@ html, body {
 }
 
 img {
-    width: 70%;
+    width: 90%;
     height: auto;
     border-radius: 20px;
 }
@@ -109,8 +109,8 @@ img {
     transform: translateX(-50%);
 }
 
-.cover-image img{
-    width: 50%;
+.cover-image{
+    width: 70%;
     height: auto;
     border-radius:20px;
     margin: auto;
