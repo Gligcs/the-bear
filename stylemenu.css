@@ -18,11 +18,6 @@ img {
     padding-top: 0;
 }
 
-.subtitles{
-    font-weight: 800;
-    margin-top: 50px;
-}
-
 .title{
     width: 1132px;
     color: #000;
@@ -118,6 +113,11 @@ img {
     text-align: center;
     position: relative;
     bottom: 200px;
+}
+
+.subtitles{
+    font-weight: 800;
+    margin-top: 50px;
 }
 
 .text{
